@@ -1,6 +1,6 @@
 <h2>Hello World! ☕</h2>
 
-<p align="start">- 🌱 Essas são todas as linguagens que estou estudando atualmente: </p>
+<p align="start">- 🌱 Apaixonado por tecnologia e sempre me aventurando em novas experiências e conhecimentos, mas .NET sempre será meu xodó
 <!-- - 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
